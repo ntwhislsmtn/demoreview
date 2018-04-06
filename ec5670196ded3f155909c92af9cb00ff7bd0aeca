@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "c5ff8e22_d042de74",
+        "filename": "index.html",
+        "patchSetId": 1
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 1013902
+      },
+      "writtenOn": "2018-04-06T09:30:58Z",
+      "side": 1,
+      "message": "Test review",
+      "revId": "ec5670196ded3f155909c92af9cb00ff7bd0aeca",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
